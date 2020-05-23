@@ -1,0 +1,9 @@
+.list-group-item {
+  background: rgb(36, 28, 43);
+  margin-bottom: 4px;
+  padding: 4px 8px;
+  color: white;
+}
+.list-group-item:last-child {
+  margin-bottom: 0;
+}

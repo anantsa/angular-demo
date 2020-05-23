@@ -1,5 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
-
+* {
+    color: white;
+}
 .all-image {
     margin: 4px;
 }
@@ -13,6 +15,9 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: black;
+    color: white;
     /* font-weight: bold; */
+}
+body {
+    background-color: #3a3b4d;
 }
